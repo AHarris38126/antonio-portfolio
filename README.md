@@ -12,7 +12,7 @@ qualifications, and career interests.
 ## Planning and Design
 I divided the website into three pages:
 - Home: Introduction and interactive career strengths.
-- Résumé: Experience, education, and skills.
+- Resume: Experience, education, and skills.
 - Contact: A demonstration contact form.
 
 Each page includes navigation links to the other pages.
@@ -30,7 +30,7 @@ The layout adapts to smaller screens.
 
 ## Interactive Features
 - Home: Buttons display strengths for different career areas.
-- Résumé: Buttons show and hide job responsibilities.
+- Resume: Buttons show and hide job responsibilities.
 - Contact: The form validates input and displays demo feedback.
 
 ## File Organization
@@ -44,7 +44,7 @@ The layout adapts to smaller screens.
 - README.md
 
 ## Evaluation
-The Home buttons and résumé detail buttons were tested in the browser.
+The Home buttons and Resume detail buttons were tested in the browser.
 The contact form displayed a confirmation for valid sample information.
 The contact form layout was adjusted to stack fields vertically.
 
@@ -54,5 +54,5 @@ It does not send or save messages.
 
 ## Future Improvements
 - Add a professional profile photo.
-- Add a downloadable résumé.
+- Add a downloadable Resume.
 - Connect the contact form to a working message service.
